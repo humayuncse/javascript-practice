@@ -5,4 +5,5 @@ function cars(carsname,price){
 
 }
 
+console.log("efhsjkfjkllskj");
 
